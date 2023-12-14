@@ -1,0 +1,6 @@
+publiccodeYmlVersion: "0.2"
+# Pas dit voorbeeld aan op basis van de specificaties van jouw component. Een volledige beschrijving van de publiccode standaard vind je op [yml.publiccode.tools](https://yml.publiccode.tools/schema.core.html#top-level-keys-and-sections) 
+name: My fery first component
+url: "https://example.com/italia/medusa.git"
+softwareVersion: "dev"    # Optional
+releaseDate: "2017-04-15"
