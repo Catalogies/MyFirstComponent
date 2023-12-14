@@ -1,0 +1,13 @@
+name: My Product Page Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy Product Github Page
+        uses: OpenCatalogi/productpage-action@1.0.3
